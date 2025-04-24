@@ -1,0 +1,35 @@
+atlasId,atlasName,cohortId,name
+1893,[sooj][HGB] DonepezilWithAntipsychotics (DRN),1893,soojHGB_DonepezilWithAntipsychotics_DRN
+1894,[sooj] DonepezilWithoutAntipsychotics (gap day 30) 240715,1894,sooj_DonepezilWithoutAntipsychotics_gap_day_30_240715
+1895,[HGB] Hyperlipidemia (DRN),1895,HGB_Hyperlipidemia_DRN
+1896,[HGB] T2DM (DRN),1896,HGB_T2DM_DRN
+1897,[HGB] Heart failure (DRN),1897,HGB_Heart_failure_DRN
+1898,[HGB] stroke (DRN),1898,HGB_stroke_DRN
+1899,[HGB] Urinary tract infection (DRN),1899,HGB_Urinary_tract_infection_DRN
+1900,[HGB] Parkinsonism (DRN),1900,HGB_Parkinsonism_DRN
+1901,[HGB] anemia (DRN),1901,HGB_anemia_DRN
+1902,[HGB] pneumonia (DRN),1902,HGB_pneumonia_DRN
+1903,[HGB] fracture (DRN),1903,HGB_fracture_DRN
+1904,[HGB] traumatic injury (DRN),1904,HGB_traumatic_injury_DRN
+1905,[HGB] Seizure (DRN),1905,HGB_Seizure_DRN
+1906,[HGB] Death (DRN),1906,HGB_Death_DRN
+1907,[sooj] MPHWithAntipsychotics (gap day 30),1907,sooj_MPHWithAntipsychotics_gap_day_30
+1908,[sooj] MPHWithoutAntipsychotics (gap day 30) 240715,1908,sooj_MPHWithoutAntipsychotics_gap_day_30_240715
+1909,[HGB] suicidal event (DRN),1909,HGB_suicidal_event_DRN
+1910,[HGB] Bipolar disorder (DRN),1910,HGB_Bipolar_disorder_DRN
+1911,[HGB] Psychotic disorder (DRN),1911,HGB_Psychotic_disorder_DRN
+1912,[HGB] sleep disorder (DRN),1912,HGB_sleep_disorder_DRN
+1913,[HGB] Tic disorder (DRN),1913,HGB_Tic_disorder_DRN
+1914,[HGB] Depressive disorder (DRN),1914,HGB_Depressive_disorder_DRN
+1915,[HGB] InpatientWithAP (DRN),1915,HGB_InpatientWithAP_DRN
+1916,[HGB] InpatientWithoutAP (DRN) 240715,1916,HGB_InpatientWithoutAP_DRN_240715
+1917,[HGB] Alzheimer Dementia ver0 (Outcome),1917,HGB_Alzheimer_Dementia_ver0_Outcome
+1918,[HGB] Vascular dementia ver0 (Outcome),1918,HGB_Vascular_dementia_ver0_Outcome
+1919,[HGB] All Dementia + MCI ver0 (Outcome) revised230919,1919,HGB_All_Dementia__MCI_ver0_Outcome_revised230919
+1920,[HGB] All Dementia ver0 (Outcome),1920,HGB_All_Dementia_ver0_Outcome
+1921,[sooj][DRN] SSRIswithAntipsychotics (gap day 30) (All age groups),1921,soojDRN_SSRIswithAntipsychotics_gap_day_30_All_age_groups
+1922,[sooj] SSRIswithoutAntipsychotics (gap day 30) (All age groups) 240715,1922,sooj_SSRIswithoutAntipsychotics_gap_day_30_All_age_groups_240715
+1923,[sooj] SSRIswithAntipsychotics (gap day 30) (between 20 and 59),1923,sooj_SSRIswithAntipsychotics_gap_day_30_between_20_and_59
+1924,[sooj] SSRIswithoutAntipsychotics (gap day 30) (between 20 and 59) 240715,1924,sooj_SSRIswithoutAntipsychotics_gap_day_30_between_20_and_59_240715
+1925,[sooj] SSRIswithAntipsychotics (gap day 30) (over 60),1925,sooj_SSRIswithAntipsychotics_gap_day_30_over_60
+1926,[sooj] SSRIswithoutAntipsychotics (gap day 30) (over 60) 240715,1926,sooj_SSRIswithoutAntipsychotics_gap_day_30_over_60_240715
